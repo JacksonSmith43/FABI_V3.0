@@ -6,6 +6,7 @@ This folder contains 3D printable versions of FABI cases and button cases.
 ## FABI case
 
 Please print **fabi_base.stl** and **fabi_top.stl**.
+Optional: **fabi_uUSB_cover.stl** (USB plug cover)
 You need following electronic parts:
 
 * Arduino Pro Micro (either from Sparkfun or Aliexpress)
